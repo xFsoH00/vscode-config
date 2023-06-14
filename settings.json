@@ -10,11 +10,10 @@
   
     "workbench.iconTheme": "material-icon-theme",
   
-    "polacode.backgroundColor": "#6633CC",
     "tabnine.experimentalAutoImports": true,
     "http.systemCertificates": false,
     "workbench.colorCustomizations": {},
-    "workbench.colorTheme": "Omni Owl",
+    "workbench.colorTheme": "GitHub Dark",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
 
@@ -27,7 +26,7 @@
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
 
-    "editor.rulers": [80, 120],
+    "editor.rulers": [120, 180],
 
     "files.associations": {
         ".sequelizerc": "javascript",
@@ -98,11 +97,6 @@
     "typescript.updateImportsOnFileMove.enabled": "never",
 
     "editor.suggestSelection": "first",
-    "codesnap.backgroundColor": "transparent",
-    "codesnap.transparentBackground": true,
-    "codesnap.boxShadow": "0 0 0",
-    // "codesnap.showWindowControls": false,
-    "liveServer.settings.donotVerifyTags": true,
 
     "javascript.updateImportsOnFileMove.enabled": "always",
     "terminal.integrated.showExitAlert": false,
@@ -110,7 +104,5 @@
 
     "splitHTMLAttributes.closingBracketOnNewLine": true,
 
-    "security.workspace.trust.untrustedFiles": "newWindow",
-    "liveServer.settings.donotShowInfoMsg": true,
-    "window.zoomLevel": 1,
+    "security.workspace.trust.untrustedFiles": "newWindow"
 }
